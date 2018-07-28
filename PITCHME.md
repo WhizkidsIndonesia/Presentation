@@ -23,6 +23,12 @@ https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
+### Peran utama manusia: Anak dan atau Orang Tua
+- Anak: *Dibimbing orang tua* |
+- Orang tua: *Membimbing anak* |
+- Ringkasnya: Belajar dan Mengajar |
+
+---
 ### Mengapa Anda mendatangi CoderDojo?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
@@ -31,14 +37,24 @@ https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 - Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
 
 ---
-### Yaitu, Lebih dari sekedar Basic Need, jika Anda masih mampu, kejarlah Self-Actualization. Passion!
-- Karena, tidak ada yang lebih mengasyikkan dari dibayar untuk sesuatu yang menjadi kesukaanmu|
+### Yaitu, Lebih dari sekedar Basic Need, arahkan Anak ke kondisi bekerja (dan belajar) untuk Mengaktualisasikan Dirinya.
+- Passion! |
+- Karena, tidak ada yang lebih mengasyikkan dari dibayar untuk hobimu|
 - Identify your passion, and reach out to it |
 - Passion dari masa lalu: guru, PNS, Tentara, Dokter, Arsitek, etc. |
 ---
 - Passion Generasi-z: Build the next killer application/startup |
+- "Didiklah anak-anakmu, karena mereka akan hidup pada zaman yang berbeda dengan zamanmu" |
 
 ---
+### Whizkids Indonesia dibangun Untuk Mendampingi Orang Tua Untuk Tujuan Tersebut
+- Laptop, Smartphone, Youtube, Minecraft, Steam ... |
+- Hasil teknologi tinggi tersebut bukanlah musuh: kalahkan |
+- Shift gear for our kids: from Consumer to Producer |
+---
+
+### KATA KUNCI: KODING
+-
 ### THANKS PARENTS AND WHIZKIDS, AND ...
 Good bye!
 ---
