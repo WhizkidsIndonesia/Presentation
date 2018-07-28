@@ -54,7 +54,14 @@ https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 ---
 
 ### KATA KUNCI: KODING
--
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/master/coding1.png" />
+---
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/master/coding2.png" />
+---
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/master/coding3.png" />
+---
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/master/coding4.png" />
+---
 ### THANKS PARENTS AND WHIZKIDS, AND ...
 Good bye!
 ---
