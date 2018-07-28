@@ -1,9 +1,7 @@
 Whizkids Indonesia: Passion for The Kids Future
-###### BUAT GAME! | BERKENALAN! | SELURUH INDONESIA!
-
 <img src="
 https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
-
+###### BUAT GAME! | BERKENALAN! | SELURUH INDONESIA!
 ---
 ### Stephen R. Covey
 
