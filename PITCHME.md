@@ -80,7 +80,7 @@ https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 ### KATA KUNCI #5:PENDAMPINGAN ORANG TUA
 - Orang tua memilihkan program pembelajaran yang sesuai |
 - Orang tua mendapatkan secara realtime progress belajar anak |
-- Orang tua bisa memberikan apresiasi secara langsung
+- Orang tua bisa memberikan apresiasi secara langsung |
 ---
 ### KATA KUNCI 4: DUNIA VIRTUAL
 <img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/master/world.png" />
@@ -88,7 +88,7 @@ https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 
 ### BIAYA?
 - Graa...|
-- Pendaftaran 500rb/tahun, dan SPP 100rb/bulan
+- Pendaftaran 500rb/tahun, dan SPP 100rb/bulan |
 
 ---
 ### APA SETELAH WHIZKIDS?
@@ -104,7 +104,5 @@ Presented in Coder Dojo Indonesia , Yogyakarta, 28 Juli 2018
 
 ###### Eko S. Wibowo | 081-2222-1975 | facebook.com/swdev
 https://whizkids.id
----
-That's it!
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/marvel.png"/>
