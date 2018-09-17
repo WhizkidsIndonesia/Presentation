@@ -9,7 +9,7 @@ Whizkids Indonesia: Koding untuk Anak Indonesia
 ### Seven Habits of Highly Effective People
 ---
 ### Peran utama manusia: Anak dan atau Orang Tua
-
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/01-jec-2018-09-18/teach.jpg"/>
 
 ### Saya membangun Whizkids Indonesia, adalah dalam rangka memenuhi peran itu
 - Passion Generasi-z: Build the next killer application/startup |
