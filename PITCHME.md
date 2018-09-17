@@ -1,4 +1,4 @@
-Whizkids Indonesia: Koding untuk Semua Anak Indonesia
+Whizkids Indonesia: Koding untuk Anak Indonesia
 <img src="
 https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 ###### BUAT GAME! | BERKENALAN! | SELURUH INDONESIA!
