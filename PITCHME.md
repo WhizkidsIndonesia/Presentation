@@ -1,4 +1,4 @@
-Whizkids Indonesia: Menyebarkan Passion Koding untuk Anak-Anak Indonesia
+Whizkids Indonesia: Koding untuk Semua Anak Indonesia
 <img src="
 https://whizkids.id/static/img/logo.gif" alt="Whizkids"/>
 ###### BUAT GAME! | BERKENALAN! | SELURUH INDONESIA!
