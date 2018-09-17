@@ -7,19 +7,20 @@ Whizkids Indonesia: Koding untuk Anak Indonesia
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/covey.png"/>
 ---
 ### Seven Habits of Highly Effective People
+Note:
+- First thing first, cara mendapat kebahagiaan
 ---
 ### Peran utama manusia: Anak dan atau Orang Tua
 <img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/01-jec-2018-09-18/teach.jpg"/>
-
-### Saya membangun Whizkids Indonesia, adalah dalam rangka memenuhi peran itu
-- Passion Generasi-z: Build the next killer application/startup |
+Note:
+- Saya membangun Whizkids Indonesia, adalah dalam rangka memenuhi peran itu
+- Passion Generasi-z: Build the next killer application/startup
 - "Didiklah anak-anakmu, karena mereka akan hidup pada zaman yang berbeda dengan zamanmu" |
-
 ---
-### Whizkids Indonesia dibangun Untuk Mendampingi Orang Tua Untuk Tujuan Tersebut
-- Laptop, Smartphone, Youtube, Minecraft, Steam ... |
-- Hasil teknologi tinggi tersebut bukanlah musuh: kalahkan |
-- Shift gear for our kids: from Consumer to Producer |
+### Memperkenalkan Whizkids
+<img src="https://raw.githubusercontent.com/WhizkidsIndonesia/Presentation/01-jec-2018-09-18/whizkids.png"/>
+Note:
+- Wadah bagi saya membantu ortu mengajarkan koding bagi anak-anak
 ---
 
 ### KATA KUNCI #1: CODING
